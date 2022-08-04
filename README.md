@@ -1,4 +1,4 @@
-## Olá, meu nome é Wesley, tenho 25 anos e sinta-se bem-vindo!
+## Olá, meu nome é Wesley, tenho 25 anos e bem-vindo!
 
 - 💀 Trabalho com Back End
 -  📚 Aprendendo:
